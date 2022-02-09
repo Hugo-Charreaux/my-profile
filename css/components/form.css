@@ -1,0 +1,32 @@
+.form-menu{
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	text-align: center;
+}
+.form-menu h2{
+	text-align: center;
+}
+.form-menu form{
+	display: flex;
+	flex-flow: column;
+}
+
+.form-menu input{
+	margin: 15px;
+	padding: 5px;
+	border-radius: 3px;
+	border-width: 1px;
+
+}
+
+.message{
+	height:100px;
+    width:450px;
+    text-align: left;
+}
+
+.contact{
+	align-self: flex-start;
+
+}
